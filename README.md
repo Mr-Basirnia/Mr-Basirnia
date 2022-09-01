@@ -1,6 +1,12 @@
-# 💫About Me :
-Hi, I am Mohammad Amin
-I thought programming was hard but now I fell in love with programming and PHP language
+<h1 align="center">Hi there, I'm <a href="" target="_blank">Mohammad Amin</a>
+<img src="https://user-images.githubusercontent.com/51942680/187899481-23dc5131-4f8c-4bc9-9e81-f19fc995f08c.gif" height="32" /></h1>
+
+
+<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/51942680/187898594-e7a62737-b8d7-4d1b-8480-537fcd2e5f8b.png">
+
+
+
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_basirnia) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mr_basirnia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17412584) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mr_basirnia) 
@@ -13,13 +19,13 @@ I thought programming was hard but now I fell in love with programming and PHP l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Basirnia&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ![](https://github-profile-trophy.vercel.app/?username=Mr-Basirnia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=Mr-Basirnia&label=Visitors+Count&color=brightgreen)
